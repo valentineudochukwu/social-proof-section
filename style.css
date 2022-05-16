@@ -117,6 +117,9 @@ body{
 }
 
 @media screen and (max-width : 768px){
+body{
+    background-size: contain;
+}
 .hero-container{
     padding: 10px;
     height: 100vh;
