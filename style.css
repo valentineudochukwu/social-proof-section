@@ -138,14 +138,28 @@ body{
 .hero-text p{
     font-size: 15px;
 }
+.rate-card1{
+    text-align: center;
+    justify-content: center;
+    display: block;
+}
 .rate-card2{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    display: block;
     margin-left: 0;
 }
 .rate-card3{
+    display: block;
+    text-align: center;
+    justify-content: center;
+    display: block;
     margin-left: 0;
 }
 .hero-container{
     display: inline-block;
+    padding: 15px;
 }
 .hero-2{
     display: unset;
@@ -161,7 +175,8 @@ body{
     margin-top: 20px;
     margin-left: 0;
 }
-
+.rate-text{margin-left: 0;
+}
 
 
 
